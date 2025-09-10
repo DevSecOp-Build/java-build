@@ -10,14 +10,8 @@ Its purpose is mainly educational — to show how to structure a Maven-based Jav
 
 After fixing it to Maven standard layout, it looks like this:
 
-**java-build/
- ├── pom.xml
- └── src/
-      └── main/
-           └── java/
-                └── com/
-                     └── example/
-                          └── HelloWorld.java**
+<img width="811" height="303" alt="image" src="https://github.com/user-attachments/assets/17210bce-3e04-43c0-bdbe-f160e6cf3515" />
+
 What pom.xml Does
 
 Defines the project’s metadata (name, version, group ID).
